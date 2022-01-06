@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("CardFileProject")]
-[assembly: AssemblyCopyright("© , 2021")]
+[assembly: AssemblyCopyright("© , 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для ID библиотеки типов typelib, если этот проект видим для COM
-[assembly: Guid("83614838-07e0-4cac-a0ae-275fc6749dd9")]
+[assembly: Guid("df973156-3710-406b-8ec0-a7710cdc6fad")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
